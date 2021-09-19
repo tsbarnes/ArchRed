@@ -1,0 +1,21 @@
+[kdeglobals][General]
+ColorScheme=ArchRed
+
+[kdeglobals][KDE]
+widgetStyle=Breeze
+
+[kdeglobals][Icons]
+Theme=Papirus-Red
+
+[kwinrc][DesktopSwitcher]
+LayoutName=org.kde.breeze.desktop
+
+[kwinrc][WindowSwitcher]
+LayoutName=org.kde.breeze.desktop
+
+[kwinrc][org.kde.kdecoration2]
+library=org.kde.sierrabreezeenhanced
+theme=Sierra Breeze Enhanced
+
+[plasmarc][Theme]
+name=ArchRed
