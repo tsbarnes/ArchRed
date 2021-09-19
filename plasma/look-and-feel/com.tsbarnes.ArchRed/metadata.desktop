@@ -15,5 +15,5 @@ X-KDE-PluginInfo-Version=0.1
 X-KDE-PluginInfo-Website=https://github.com/tsbarnes/ArchRed
 X-KDE-ServiceTypes=Plasma/LookAndFeel
 X-KDE-fallbackPackage=org.kde.breeze.desktop
-X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1575075,kns://icons.knsrc/api.kde-look.org/1549558,kns://plasma-themes.knsrc/api.kde-look.org/1575076
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1600217,kns://icons.knsrc/api.kde-look.org/1556287,kns://plasma-themes.knsrc/api.kde-look.org/1600226
 X-Plasma-MainScript=defaults
